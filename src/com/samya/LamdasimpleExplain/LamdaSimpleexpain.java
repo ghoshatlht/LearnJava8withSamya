@@ -35,7 +35,7 @@ public class LamdaSimpleexpain {
 	public static void main(String[] args) {
 		
 		A obj;
-		obj=() ->
+		obj=() ->   // here is the Lamda expression 
 		{
 		
 			System.out.println("hello from samya");
